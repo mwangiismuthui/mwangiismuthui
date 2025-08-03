@@ -9,4 +9,4 @@ I work across full-stack ecosystems, focusing on clean code, performance, and au
 ---
 
 📖 **Read More**  
-[https://www.mwangiismuthui.dev](https://www.mwangiismuthui.dev)
+[https://www.mwangiismuthui.dev](mwangiismuthui.dev)
