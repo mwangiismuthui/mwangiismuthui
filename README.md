@@ -1,12 +1,44 @@
-# Hi there 👋
+# David Mwangi
 
-In summary:
+CEO & Founder at **Zuri Labs Africa** — building software products for the African market.
 
-I am a **Software and Web Applications Consultant** with extensive experience turning concepts into practical and scalable digital solutions.
-
-I work across full-stack ecosystems, focusing on clean code, performance, and automation.
+I design and ship full-stack web applications and AI-powered systems. Background in Laravel, React, and TypeScript. Currently leading product development across six SaaS platforms from Nairobi, Kenya.
 
 ---
 
-📖 **Read More**  
-https://mwangiismuthui.dev/
+## What I'm Building at Zuri Labs Africa
+
+| Product | What it does |
+|---|---|
+| **ZuriPOS** | Point-of-sale system built for African SMEs |
+| **BriefHQ** | AI-powered briefing and business report generation |
+| **CampaignIQ** | Intelligent marketing campaign management platform |
+| **ZuriClipper** | Video clipping and social content automation |
+| **TaxAgent** | AI tax compliance assistant for Kenya (KRA/iTax) |
+| **Enara** | Enterprise resource and operations platform |
+
+---
+
+## Tech Stack
+
+**Backend** — Laravel · PHP · Node.js · Python  
+**Frontend** — React · Vue · TypeScript · Tailwind CSS  
+**AI / ML** — Anthropic Claude · OpenAI · LangChain · RAG pipelines  
+**Infrastructure** — Railway · PostgreSQL · Redis · Docker  
+**Integrations** — M-Pesa · Stripe · Slack · Google Workspace  
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwangiismuthui&show_icons=true&hide_border=true&count_private=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mwangiismuthui&layout=compact&hide_border=true&theme=default)
+
+---
+
+## Connect
+
+- Website: [mwangiismuthui.dev](https://mwangiismuthui.dev)
+- X / Twitter: [@mwangiismuthui](https://twitter.com/mwangiismuthui)
+- Company: [Zuri Labs Africa](https://zurilabsafrica.com)
