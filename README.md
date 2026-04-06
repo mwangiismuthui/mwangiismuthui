@@ -29,13 +29,7 @@ I design and ship full-stack web applications and AI-powered systems. Background
 
 ---
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwangiismuthui&show_icons=true&hide_border=true&count_private=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mwangiismuthui&layout=compact&hide_border=true&theme=default)
-
----
 
 ## Connect
 
